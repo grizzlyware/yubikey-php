@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/images/yubico_logo.png" alt="Yubico logo" width="80%" /></p>
+<p align="center"><img src="./assets/images/yubico_logo.png" alt="Yubico logo" /></p>
 
 # YubiKey Validation Library
 This library allows you to validate YubiKey OTPs (one time passwords) easily. It's written in pure PHP, requiring only cURL to connect to Yubico's servers.
