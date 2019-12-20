@@ -7,6 +7,11 @@ This library allows you to validate YubiKey OTPs (one time passwords) easily. It
 * PHP 5.6+
 * cURL
 
+## Installation
+```
+composer require grizzlyware/yubikey-php
+```
+
 ## Example
 
 ```
