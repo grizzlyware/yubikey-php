@@ -34,6 +34,7 @@ class Validator
 
 	protected static function randomString($length = 16)
 	{
+		// Thank you to Taylor Otwell / Laravel for this function
 		$string = '';
 
 		while (($len = strlen($string)) < $length) {
