@@ -52,4 +52,7 @@ The first 12 digits of a YubiKey OTP are always the same and unique to that key.
 ## Security Vulnerabilities
 If you discover a security vulnerability within this project, please contact Grizzlyware Ltd directly (contact@grizzlyware.com). All security vulnerabilities will be promptly addressed.
 
+## Credits
+Built open source by [Grizzlyware](https://www.grizzlyware.com) for the greater benefit and security of the internet.
+
 
