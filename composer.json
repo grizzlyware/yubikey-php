@@ -9,5 +9,22 @@
             "email": "contact@grizzlyware.com"
         }
     ],
-    "require": {}
+
+    "scripts": {
+      "test": "./vendor/bin/phpunit --bootstrap ./vendor/autoload.php tests/*"
+    },
+
+    "autoload": {
+      "psr-4": {
+        "Monolog\\": "src/",
+        "Grizzlyware\\YubiKey\\": "src/Grizzlyware/YubiKey"
+      }
+    },
+
+    "require": {
+      "ext-curl": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
 }
