@@ -4,8 +4,8 @@
 This library allows you to validate YubiKey OTPs (one time passwords) easily. It's written in pure PHP, requiring only cURL to connect to Yubico's servers.
 
 ## Requirements
-PHP 5.6+
-cURL
+* PHP 5.6+
+* cURL
 
 ## Example
 
