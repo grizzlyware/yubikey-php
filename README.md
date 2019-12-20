@@ -8,13 +8,11 @@ This library allows you to validate YubiKey OTPs (one time passwords) easily. It
 * cURL
 
 ## Installation
-```
-composer require grizzlyware/yubikey-php
-```
+`$ composer require grizzlyware/yubikey-php`
 
 ## Example
 
-```
+```php
 require 'vendor/autoload.php';
 
 // These can be obtained from Yubico: https://upgrade.yubico.com/getapikey/
