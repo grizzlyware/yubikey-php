@@ -2,7 +2,7 @@
     "name": "grizzlyware/yubikey-php",
     "description": "A pure PHP interface to Yubico for verifying YubiKey one time passwords",
     "type": "library",
-    "license": "GPL-3.0-only",
+    "license": "MIT",
     "authors": [
         {
             "name": "Grizzlyware Ltd",
